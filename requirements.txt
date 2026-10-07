@@ -1,9 +1,10 @@
-transformers>=4.40
-sentencepiece
+streamlit>=1.50
 opencv-python-headless
 numpy
 Pillow
+transformers>=4.40
+sentencepiece
 pymupdf
 python-docx
 reportlab
-streamlit>=1.50
+torch
