@@ -1,0 +1,15 @@
+{
+  "model_name": "microsoft/trocr-large-handwritten",
+  "saved_model_dir": "saved_model",
+  "use_saved_model": false,
+  "num_beams": 3,
+  "max_new_tokens": 128,
+  "batch_size": 8,
+  "binarize": false,
+  "denoise": true,
+  "deskew": true,
+  "line_proj_ratio": 0.12,
+  "min_line_height": 18,
+  "line_padding": 8,
+  "merge_gap": 0
+}

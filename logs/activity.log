@@ -1,0 +1,45 @@
+2026-10-07 19:05:25,123 | INFO | Model loaded from microsoft/trocr-large-handwritten on cpu
+2026-10-07 19:06:28,649 | INFO | HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+2026-10-07 19:06:29,061 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/revision/main "HTTP/1.1 200 OK"
+2026-10-07 19:06:29,504 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-10-07 19:06:30,038 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-10-07 19:06:30,443 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-10-07 19:06:31,108 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/revision/main "HTTP/1.1 200 OK"
+2026-10-07 19:06:31,578 | INFO | HTTP Request: HEAD https://huggingface.co/microsoft/trocr-large-handwritten/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-10-07 19:06:31,579 | WARNING | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-10-07 19:06:32,048 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten "HTTP/1.1 200 OK"
+2026-10-07 19:06:32,477 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/commits/main "HTTP/1.1 200 OK"
+2026-10-07 19:06:32,886 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/discussions?p=0 "HTTP/1.1 200 OK"
+2026-10-07 19:06:33,154 | INFO | Model loaded from microsoft/trocr-large-handwritten on cpu
+2026-10-07 19:06:33,395 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/commits/refs%2Fpr%2F9 "HTTP/1.1 200 OK"
+2026-10-07 19:06:33,797 | INFO | HTTP Request: HEAD https://huggingface.co/microsoft/trocr-large-handwritten/resolve/refs%2Fpr%2F9/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-10-07 19:06:34,191 | INFO | HTTP Request: HEAD https://huggingface.co/microsoft/trocr-large-handwritten/resolve/refs%2Fpr%2F9/model.safetensors "HTTP/1.1 302 Found"
+2026-10-07 19:09:31,146 | INFO | Page transcribed: 7 lines in 125.58s
+2026-10-07 19:11:15,732 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/revision/main "HTTP/1.1 200 OK"
+2026-10-07 19:11:16,110 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-10-07 19:11:16,528 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-10-07 19:11:17,111 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-10-07 19:11:17,741 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/revision/main "HTTP/1.1 200 OK"
+2026-10-07 19:11:18,642 | INFO | HTTP Request: HEAD https://huggingface.co/microsoft/trocr-large-handwritten/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-10-07 19:11:19,042 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten "HTTP/1.1 200 OK"
+2026-10-07 19:11:19,448 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/commits/main "HTTP/1.1 200 OK"
+2026-10-07 19:11:19,755 | INFO | Model loaded from microsoft/trocr-large-handwritten on cpu
+2026-10-07 19:11:19,986 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/discussions?p=0 "HTTP/1.1 200 OK"
+2026-10-07 19:11:20,385 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/commits/refs%2Fpr%2F9 "HTTP/1.1 200 OK"
+2026-10-07 19:11:20,876 | INFO | HTTP Request: HEAD https://huggingface.co/microsoft/trocr-large-handwritten/resolve/refs%2Fpr%2F9/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-10-07 19:11:21,246 | INFO | HTTP Request: HEAD https://huggingface.co/microsoft/trocr-large-handwritten/resolve/refs%2Fpr%2F9/model.safetensors "HTTP/1.1 302 Found"
+2026-10-07 19:13:32,640 | INFO | Page transcribed: 8 lines in 92.11s
+2026-10-07 19:20:28,482 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/revision/main "HTTP/1.1 200 OK"
+2026-10-07 19:20:28,941 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-10-07 19:20:29,438 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-10-07 19:20:29,916 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-10-07 19:20:30,561 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/revision/main "HTTP/1.1 200 OK"
+2026-10-07 19:20:30,957 | INFO | HTTP Request: HEAD https://huggingface.co/microsoft/trocr-large-handwritten/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-10-07 19:20:31,369 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten "HTTP/1.1 200 OK"
+2026-10-07 19:20:31,799 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/commits/main "HTTP/1.1 200 OK"
+2026-10-07 19:20:31,847 | INFO | Model loaded from microsoft/trocr-large-handwritten on cpu
+2026-10-07 19:20:32,173 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/discussions?p=0 "HTTP/1.1 200 OK"
+2026-10-07 19:20:32,564 | INFO | HTTP Request: GET https://huggingface.co/api/models/microsoft/trocr-large-handwritten/commits/refs%2Fpr%2F9 "HTTP/1.1 200 OK"
+2026-10-07 19:20:32,919 | INFO | HTTP Request: HEAD https://huggingface.co/microsoft/trocr-large-handwritten/resolve/refs%2Fpr%2F9/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-10-07 19:20:32,920 | WARNING | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-10-07 19:20:33,404 | INFO | HTTP Request: HEAD https://huggingface.co/microsoft/trocr-large-handwritten/resolve/refs%2Fpr%2F9/model.safetensors "HTTP/1.1 302 Found"
