@@ -1,6 +1,6 @@
 """Step 7 - Streamlit web application.  Run:  streamlit run app.py"""
 from pathlib import Path
-
+import torch
 import streamlit as st
 import cv2
 from ocr_engine import HandwritingOCR, load_config
